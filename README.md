@@ -1,4 +1,8 @@
 # Car Dealers API | Python AQA Homework
+![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/ydanchen/cardealer-aiohttp) 
+![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/ydanchen/cardealer-aiohttp/aiohttp)
+![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/ydanchen/cardealer-aiohttp/apscheduler)
+
 
 Simple asynchronous REST API with Python aiohttp library.
 
@@ -7,6 +11,7 @@ The following toolset was used:
 * pipenv
 * aiohttp
 * sqlite3
+* apscheduler
 
 Tables:
 * dealer(id, name)
